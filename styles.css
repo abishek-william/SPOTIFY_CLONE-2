@@ -45,7 +45,7 @@ nav ul{
     width: 70%;
     border-radius: 12px;
     padding: 34px;
-    background-image: url(images/bg.jpg);
+    background-image: url(bg.jpg);
 }
 .bottom{
     position: sticky;
