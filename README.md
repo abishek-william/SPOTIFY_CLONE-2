@@ -1,1 +1,2 @@
-# SPOTIFY_CLONE-2
+# Spotify-Clone
+Brocamp-Week 1 Task
